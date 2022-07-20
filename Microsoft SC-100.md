@@ -1,4 +1,7 @@
-# SC-100 Microsoft Cybersecurity Architect - Study Notes
+# SC-100 Microsoft Cybersecurity Architect - Study Notes  
+  
+**Author:** Stuart Mackay 
+<!-- Author: Stuart Mackay -->
 ## Top Resources
 - [Official Microsoft Exam Study Guide / Outline](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWVbXN)
 - [Official Microsoft Learning Path](https://docs.microsoft.com/en-us/certifications/exams/sc-100)
@@ -504,4 +507,4 @@ Manage **Azure Key Vault** with the **Key Vault Contributor** RBAC Role.
 Use a [privileged access workstation](https://4sysops.com/archives/understand-the-microsoft-privileged-access-workstation-paw-security-model/) to reduce the attack surface in workstations.  
   
 Use [Azure Disk Encryption](https://docs.microsoft.com/en-us/azure/security/fundamentals/azure-disk-encryption-vms-vmss). It enables IT administrators to encrypt Windows and Linux IaaS VM disks.  
-
+<!-- Author: Stuart Mackay -->
