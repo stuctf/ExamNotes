@@ -8,6 +8,8 @@
 - [John Savill AZ-500 Study Playlist (Youtube)](https://www.youtube.com/watch?v=6vISzj-z8k4&list=PLlVtbbG169nHw9T1L_CiLxC-DTwKu-BZG)
 - [John Savill AZ-500 Study Cram (Youtube)](https://www.youtube.com/watch?v=6vISzj-z8k4)
 
+## Notes from Microsoft Learn & Microsoft Docs:
+
 ## Manage Identity and Access  
 ### Secure Azure solutions with Azure Active Directory  
 **Azure Active Directory** (Azure AD) is Microsoft’s multi-tenant cloud-based directory and identity management service.  
