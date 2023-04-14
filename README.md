@@ -8,3 +8,5 @@
 [SC-100](https://github.com/stuctf/ExamNotes/blob/main/Microsoft%20SC-100.md) - Microsoft Cybersecurity Architect
 
 [SC-200](https://github.com/stuctf/ExamNotes/blob/main/Microsoft%20SC-200.md) - Microsoft Security Operations Analyst
+
+[SC-300](https://github.com/stuctf/ExamNotes/blob/main/Microsoft%20SC-300.md) - Microsoft Identity and Access Administrator
