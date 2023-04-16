@@ -1,6 +1,6 @@
 # ExamNotes  
   
-## Microsoft
+## Microsoft Security
 [AZ-500](https://github.com/stuctf/ExamNotes/blob/main/Microsoft%20AZ-500.md) - Microsoft Azure Security Technologies
 
 [MS-500](https://github.com/stuctf/ExamNotes/blob/main/Microsoft%20MS-500.md) - Microsoft 365 Security Administration
