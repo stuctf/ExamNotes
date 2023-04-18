@@ -5,6 +5,7 @@
 ## Top Resources
 - [Official Microsoft Exam Study Guide / Outline](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWVbXN)
 - [Official Microsoft Learning Path](https://docs.microsoft.com/en-us/certifications/exams/sc-100)
+- [SC-100 Case Studies](https://github.com/MicrosoftLearning/SC-100-Microsoft-Cybersecurity-Architect)
 - [Mark Simos MCRA Playlist (Youtube)](https://www.youtube.com/watch?v=6iYxNm3TOiI&list=PLtVMyW0H7aiOQwZSsn2d-tg2z729ce1BZ)
 - [John Savill SC-100 Study Playlist (Youtube)](https://www.youtube.com/watch?v=2Qu5gQjNQh4&list=PLlVtbbG169nHcbeVtWUfP8BeEjGniBJeb)
 - [Microsoft Security Best Practises (MS Docs)](https://docs.microsoft.com/en-us/security/compass/compass)
