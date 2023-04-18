@@ -9,6 +9,7 @@
 ## Top Resources
 - [Official Microsoft Exam Study Guide / Outline](https://learn.microsoft.com/en-us/certifications/resources/study-guides/MS-500)
 - [Official Microsoft Learning Path](https://docs.microsoft.com/en-us/certifications/exams/ms-500)
+- [MS-500 Labs](https://microsoftlearning.github.io/MS-500-Microsoft-365-Security/)
 
   
 ## Notes from Microsoft Learn & Microsoft Docs:
