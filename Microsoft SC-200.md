@@ -6,6 +6,7 @@
 ## Top Resources
 - [Official Microsoft Exam Study Guide / Outline](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp3)
 - [Official Microsoft Learning Path](https://docs.microsoft.com/en-us/certifications/exams/sc-200)
+- [SC-200 Labs](https://microsoftlearning.github.io/SC-200T00A-Microsoft-Security-Operations-Analyst/)
 
   
 ## Notes from Microsoft Learn & Microsoft Docs:
