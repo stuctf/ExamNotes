@@ -7,6 +7,7 @@
 - [Official Microsoft Learning Path](https://learn.microsoft.com/en-us/certifications/exams/az-500/)
 - [John Savill AZ-500 Study Playlist (Youtube)](https://www.youtube.com/watch?v=6vISzj-z8k4&list=PLlVtbbG169nHw9T1L_CiLxC-DTwKu-BZG)
 - [John Savill AZ-500 Study Cram (Youtube)](https://www.youtube.com/watch?v=6vISzj-z8k4)
+- [AZ-500 Labs](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/)
 
 ## Notes from Microsoft Learn & Microsoft Docs:
 
